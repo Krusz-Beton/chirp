@@ -40,10 +40,6 @@ class Mapy73Pl(base.NetworkResultRadio):
         else:
             export = ''
 
-        print('query params: %s' % str(params)) 
-        print('https://cache.mapy73.pl/snapshot/repeaters/export/chirp/%s' % export) 
-
-
         try:
             r = requests.get('https://cache.mapy73.pl/snapshot/repeaters/export/chirp/%s' % export,
                              headers=base.HEADERS)
