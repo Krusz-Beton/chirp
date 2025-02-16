@@ -1229,8 +1229,8 @@ msgid ""
 "FREE repeater database, which provides information\n"
 "about repeaters in Europe. No account is required."
 msgstr ""
-„DARMOWA baza przemienników, która dostarcza informacji\n”
-„o przemiennikach w Europie. Nie jest wymagane konto użytkownika”.
+"DARMOWA baza przemienników, która dostarcza informacji\n"
+"o przemiennikach w Europie. Nie jest wymagane konto użytkownika."
 
 #: ../wxui/query_sources.py:712
 msgid ""

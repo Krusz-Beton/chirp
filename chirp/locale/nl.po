@@ -1227,7 +1227,7 @@ msgid ""
 "about repeaters in Europe. No account is required."
 msgstr ""
 "GRATIS repeater database, die informatie\n"
-"biedt over repeaters in Europa. Er is geen account vereist.
+"biedt over repeaters in Europa. Er is geen account vereist."
 
 #: ../wxui/query_sources.py:712
 msgid ""
